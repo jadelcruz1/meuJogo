@@ -64,6 +64,7 @@ Assets de imagens e sons adquiridos online (domínio público)
 │   └── menu.png
 └── README.md
 
+
 ▶️ Como Executar o Projeto
 
 1️⃣ Instale o Pygame
