@@ -54,6 +54,7 @@ PyInstaller (para geração do .exe)
 Assets de imagens e sons adquiridos online (domínio público)
 
 📁 Estrutura do Projeto
+
 /
 ├── main.py
 ├── assets/
