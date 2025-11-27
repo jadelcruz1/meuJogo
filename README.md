@@ -54,7 +54,7 @@ PyInstaller (para geração do .exe)
 Assets de imagens e sons adquiridos online (domínio público)
 
 📁 Estrutura do Projeto
-
+````
 /
 ├── main.py
 ├── assets/
@@ -63,7 +63,7 @@ Assets de imagens e sons adquiridos online (domínio público)
 │   ├── background.png
 │   └── menu.png
 └── README.md
-
+````
 
 ▶️ Como Executar o Projeto
 
